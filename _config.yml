@@ -10,7 +10,7 @@ minimal_mistakes_skin: "default" # alternatives: air, contrast, dark, dirt, mint
 # Site Author
 author:
   name: "Naivedya Bansal"
-  avatar: "/assets/images/bio-photo.jpg" # add your photo to this path
+  avatar: "/img/passport_photo.jpg" # add your photo to this path
   bio: "Software Engineer specializing in scalable solutions"
   location: "Your Location"
   links:

@@ -1,0 +1,9 @@
+title: Naivedya Bansal | Software Engineer
+description: Personal portfolio of Naivedya Bansal, Software Engineer at Mastercard
+baseurl: ""
+url: "https://naivedyabansal.github.io"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag 

@@ -11,25 +11,28 @@ minimal_mistakes_skin: "default" # alternatives: air, contrast, dark, dirt, mint
 author:
   name: "Naivedya Bansal"
   avatar: "/img/passport_photo.jpg" # add your photo to this path
-  bio: "Software Engineer specializing in scalable solutions"
-  location: "Your Location"
+  bio: "Senior Software Engineer at Google"
+  location: "Dublin"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/yourusername"
+      url: "https://github.com/naivedyabansal"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/yourusername"
+      url: "https://www.linkedin.com/in/naivedya-bansal-998a91111/"
 
 # Site Footer
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/yourusername"
+      url: "https://github.com/naivedyabansal"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/yourusername"
+      url: "https://www.linkedin.com/in/naivedya-bansal-998a91111/"
+
+atom_feed:
+  hide: true    # Hides the feed icon/link
 
 # Build settings
 markdown: kramdown
@@ -37,7 +40,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jekyll-include-cache
   - jekyll-remote-theme
 
